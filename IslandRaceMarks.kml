@@ -33,11 +33,13 @@
 			<coordinates>-70.99166666666667,42.33472222222223,0</coordinates>
 		</Point>
 	</Placemark>
+	<Placemark>
 		<name>R6</name>
 		<Point>
 			<coordinates>-70.99861111111112,42.33666666666667,0</coordinates>
 		</Point>
 	</Placemark>
+	<Placemark>
 		<name>G1</name>
 		<Point>
 			<coordinates>-70.98055555555555,42.3313888888889,0</coordinates>
@@ -49,14 +51,13 @@
 			<coordinates>-70.97500000000001,42.30583333333333,0</coordinates>
 		</Point>
 	</Placemark>
-	<Placemark>
-		<Placemark>
+	<Placemark>		
 		<name>G7</name>
 		<Point>
 			<coordinates>-70.98333333333333,42.31166666666666,0</coordinates>
 		</Point>
 	</Placemark>
-	<Placemark>
+	
 	<Placemark>
 		<name>RN4</name>
 		<Point>
