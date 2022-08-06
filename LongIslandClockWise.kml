@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Folder>
+	<name>LongIslandClockWise</name>
+	<open>1</open>
+	<Placemark>
+		<name>G5A</name>
+		<Point>
+			<coordinates>-71.00555555555556,42.33666666666667,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>G5</name>
+		<Point>
+			<coordinates>-71.00138888888888,42.33333333333334,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>R8A</name>
+		<Point>
+			<coordinates>-70.98055555555555,42.31472222222222,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>G9</name>
+		<Point>
+			<coordinates>-70.99444444444444,42.32222222222222,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>R4</name>
+		<Point>
+			<coordinates>-70.99166666666667,42.33472222222223,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>R6</name>
+		<Point>
+			<coordinates>-70.99861111111112,42.33666666666667,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>G1</name>
+		<Point>
+			<coordinates>-70.98055555555555,42.3313888888889,0</coordinates>
+		</Point>
+	</Placemark>
+</Folder>
+</kml>
