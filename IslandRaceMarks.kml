@@ -33,16 +33,54 @@
 			<coordinates>-70.99166666666667,42.33472222222223,0</coordinates>
 		</Point>
 	</Placemark>
-	<Placemark>
+
 		<name>R6</name>
 		<Point>
 			<coordinates>-70.99861111111112,42.33666666666667,0</coordinates>
 		</Point>
 	</Placemark>
-	<Placemark>
+
 		<name>G1</name>
 		<Point>
 			<coordinates>-70.98055555555555,42.3313888888889,0</coordinates>
+		</Point>
+	</Placemark>
+		<Placemark>
+		<name>RN6</name>
+		<Point>
+			<coordinates>-70.97500000000001,42.30583333333333,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<Placemark>
+		<name>G7</name>
+		<Point>
+			<coordinates>-70.98333333333333,42.31166666666666,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+	<Placemark>
+		<name>RN4</name>
+		<Point>
+			<coordinates>-70.96388888888889,42.31333333333333,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GC1</name>
+		<Point>
+			<coordinates>-70.94722222222222,42.325,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GC5</name>
+		<Point>
+			<coordinates>-70.94861111111112,42.32916666666667,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>G17</name>
+		<Point>
+			<coordinates>-70.95972222222223,42.3325,0</coordinates>
 		</Point>
 	</Placemark>
 </Folder>
